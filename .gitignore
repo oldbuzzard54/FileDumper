@@ -1,0 +1,3 @@
+# ignore jcl with includes
+*.incl
+$TRTBL.JCL

@@ -1,0 +1,3 @@
+[submodule "EMacros"]
+	path = EMacros
+	url = https://github.com/oldbuzzard54/EMacros
